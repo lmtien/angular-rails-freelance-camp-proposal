@@ -1,3 +1,5 @@
+Live demo: [https://freelance-camp-proposal.herokuapp.com/proposals](https://freelance-camp-proposal.herokuapp.com/proposals)
+
 ## Setup steps
 
     bundle
